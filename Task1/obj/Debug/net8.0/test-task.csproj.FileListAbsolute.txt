@@ -1,0 +1,14 @@
+C:\Users\lukia\RiderProjects\test-task\test-task\bin\Debug\net8.0\test-task.exe
+C:\Users\lukia\RiderProjects\test-task\test-task\bin\Debug\net8.0\test-task.deps.json
+C:\Users\lukia\RiderProjects\test-task\test-task\bin\Debug\net8.0\test-task.runtimeconfig.json
+C:\Users\lukia\RiderProjects\test-task\test-task\bin\Debug\net8.0\test-task.dll
+C:\Users\lukia\RiderProjects\test-task\test-task\bin\Debug\net8.0\test-task.pdb
+C:\Users\lukia\RiderProjects\test-task\test-task\obj\Debug\net8.0\test-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukia\RiderProjects\test-task\test-task\obj\Debug\net8.0\test-task.AssemblyInfoInputs.cache
+C:\Users\lukia\RiderProjects\test-task\test-task\obj\Debug\net8.0\test-task.AssemblyInfo.cs
+C:\Users\lukia\RiderProjects\test-task\test-task\obj\Debug\net8.0\test-task.csproj.CoreCompileInputs.cache
+C:\Users\lukia\RiderProjects\test-task\test-task\obj\Debug\net8.0\test-task.dll
+C:\Users\lukia\RiderProjects\test-task\test-task\obj\Debug\net8.0\refint\test-task.dll
+C:\Users\lukia\RiderProjects\test-task\test-task\obj\Debug\net8.0\test-task.pdb
+C:\Users\lukia\RiderProjects\test-task\test-task\obj\Debug\net8.0\test-task.genruntimeconfig.cache
+C:\Users\lukia\RiderProjects\test-task\test-task\obj\Debug\net8.0\ref\test-task.dll
